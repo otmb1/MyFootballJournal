@@ -1,0 +1,21 @@
+team__id,team__name,team__code,team__country,team__founded,team__logo,team__venue__id,team__venue__name,team__venue__address,team__venue__city,team__venue__capacity,team__venue__surface,team__venue__image
+33,Manchester United,MUN,England,1878,https://media.api-sports.io/football/teams/33.png,556,Old Trafford,Sir Matt Busby Way,Manchester,76212,grass,https://media-1.api-sports.io/football/venues/556.png
+34,Newcastle,NEW,England,1892,https://media.api-sports.io/football/teams/34.png,562,St. James' Park,St. James' Street,Newcastle upon Tyne,52389,grass,https://media-1.api-sports.io/football/venues/562.png
+35,Bournemouth,BOU,England,1899,https://media-1.api-sports.io/football/teams/35.png,504,Vitality Stadium,"Dean Court, Kings Park","Bournemouth, Dorset",12000,grass,https://media-1.api-sports.io/football/venues/504.png
+36,Fulham,FUL,England,1879,https://media.api-sports.io/football/teams/36.png,535,Craven Cottage,Stevenage Road,London,25700,grass,https://media.api-sports.io/football/venues/535.png
+39,Wolves,WOL,England,1877,https://media-1.api-sports.io/football/teams/39.png,600,Molineux Stadium,Waterloo Road,"Wolverhampton, West Midlands",32050,grass,https://media.api-sports.io/football/venues/600.png
+40,Liverpool,LIV,England,1892,https://media-1.api-sports.io/football/teams/40.png,550,Anfield,Anfield Road,Liverpool,55212,grass,https://media-1.api-sports.io/football/venues/550.png
+41,Southampton,SOU,England,1885,https://media-1.api-sports.io/football/teams/41.png,585,St. Mary's Stadium,Britannia Road,"Southampton, Hampshire",32689,grass,https://media.api-sports.io/football/venues/585.png
+42,Arsenal,ARS,England,1886,https://media.api-sports.io/football/teams/42.png,494,Emirates Stadium,Queensland Road,London,60383,grass,https://media-1.api-sports.io/football/venues/494.png
+45,Everton,EVE,England,1878,https://media.api-sports.io/football/teams/45.png,8560,Goodison Park,Goodison Road,Liverpool,40569,grass,https://media.api-sports.io/football/venues/8560.png
+46,Leicester,LEI,England,1884,https://media-1.api-sports.io/football/teams/46.png,547,King Power Stadium,Filbert Way,"Leicester, Leicestershire",34310,grass,https://media.api-sports.io/football/venues/547.png
+47,Tottenham,TOT,England,1882,https://media.api-sports.io/football/teams/47.png,593,Tottenham Hotspur Stadium,"Bill Nicholson Way, 748 High Road",London,62850,grass,https://media.api-sports.io/football/venues/593.png
+48,West Ham,WES,England,1895,https://media.api-sports.io/football/teams/48.png,598,London Stadium,"Marshgate Lane, Stratford",London,62500,grass,https://media.api-sports.io/football/venues/598.png
+49,Chelsea,CHE,England,1905,https://media-1.api-sports.io/football/teams/49.png,519,Stamford Bridge,Fulham Road,London,41841,grass,https://media-1.api-sports.io/football/venues/519.png
+50,Manchester City,MAC,England,1880,https://media-1.api-sports.io/football/teams/50.png,555,Etihad Stadium,Rowsley Street,Manchester,55097,grass,https://media.api-sports.io/football/venues/555.png
+51,Brighton,BRI,England,1901,https://media.api-sports.io/football/teams/51.png,508,The American Express Community Stadium,Village Way,"Falmer, East Sussex",31800,grass,https://media.api-sports.io/football/venues/508.png
+52,Crystal Palace,CRY,England,1905,https://media.api-sports.io/football/teams/52.png,525,Selhurst Park,Holmesdale Road,London,26309,grass,https://media.api-sports.io/football/venues/525.png
+55,Brentford,BRE,England,1889,https://media.api-sports.io/football/teams/55.png,10503,Gtech Community Stadium,"166 Lionel Rd N, Brentford","Brentford, Middlesex",17250,grass,https://media.api-sports.io/football/venues/10503.png
+63,Leeds,LEE,England,1919,https://media-1.api-sports.io/football/teams/63.png,546,Elland Road,Elland Road,"Leeds, West Yorkshire",40204,grass,https://media.api-sports.io/football/venues/546.png
+65,Nottingham Forest,NOT,England,1865,https://media.api-sports.io/football/teams/65.png,566,The City Ground,Pavilion Road,"Nottingham, Nottinghamshire",30576,grass,https://media.api-sports.io/football/venues/566.png
+66,Aston Villa,AST,England,1874,https://media.api-sports.io/football/teams/66.png,495,Villa Park,Trinity Road,Birmingham,42788,grass,https://media-1.api-sports.io/football/venues/495.png
