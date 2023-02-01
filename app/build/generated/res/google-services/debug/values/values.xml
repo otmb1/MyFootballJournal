@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">50585610898-no13v0omtlissi4e1t6c5dstul74onab.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">50585610898</string>
+    <string name="google_api_key" translatable="false">AIzaSyD-nDxZwGEyxrq-PzPFcSkF9WA-sm_Lr2s</string>
+    <string name="google_app_id" translatable="false">1:50585610898:android:a75fe5287a3e773e96144b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD-nDxZwGEyxrq-PzPFcSkF9WA-sm_Lr2s</string>
+    <string name="google_storage_bucket" translatable="false">myfootballjournal-main.appspot.com</string>
+    <string name="project_id" translatable="false">myfootballjournal-main</string>
+</resources>
