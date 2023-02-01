@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "50585610898",
+    "project_id": "myfootballjournal-main",
+    "storage_bucket": "myfootballjournal-main.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50585610898:android:a75fe5287a3e773e96144b",
+        "android_client_info": {
+          "package_name": "com.example.myfootballjournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50585610898-mlvoocqjo55udcjveoh9gel5m53933n9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myfootballjournal",
+            "certificate_hash": "b5fa327e0230f42cdc9cd156e1df35c792b8a7c3"
+          }
+        },
+        {
+          "client_id": "50585610898-no13v0omtlissi4e1t6c5dstul74onab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-nDxZwGEyxrq-PzPFcSkF9WA-sm_Lr2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50585610898-no13v0omtlissi4e1t6c5dstul74onab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
